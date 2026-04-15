@@ -1,5 +1,2 @@
 add and remove users
 change user permissions
-
-
-login and logout users
