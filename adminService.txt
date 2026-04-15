@@ -1,3 +1,4 @@
 add and remove users
 change user permissions
 manage database of users
+closing the service
